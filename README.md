@@ -1,6 +1,7 @@
 # Ex03 Time Table
-## Date:
-11-04-2025
+## NAME:V.DEEPAK KUMAR
+## REG.NO:212224240029
+## Date:11-04-2025
 ## AIM
 To write a html webpage page to display your slot timetable.
 ## ALGORITHM
